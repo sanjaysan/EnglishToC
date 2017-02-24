@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int result;
+int intvar1,intvar2;
+scanf("%d",&intvar1);
+scanf("%d",&intvar2);
+result=intvar1+intvar2;
+printf("%d",result);
+return 0;
+}
